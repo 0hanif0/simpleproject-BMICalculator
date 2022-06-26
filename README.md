@@ -1,4 +1,4 @@
-# simpleproject-BMICalculator
+# BMI Calculator
 - Basic HTML, CSS and JavaScript
 - Simple BMI Calculator
 
